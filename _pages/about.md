@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red;">**Thank you for visiting, and welcome to my homepage! **</span>
+<span style="color:red;">** Thank you for visiting, and welcome to my homepage! **</span>
 
 <div id="about"></div>
 <h2 style="margin-top: 0.3em;">About Me</h2>
@@ -18,7 +18,7 @@ I have also had the privilege of being advised by [Prof. Yue Zhang](https://frcc
 
 <h2 style="margin-top: -2em; border-bottom: none;"></h2>
 
-** Research Interesets**
+** Research Interesets **
 ---
 
 My research interests lie in Trustworthy Machine Learning, Large Reasoning Models Security, and AI-generated Text Detection.
@@ -41,7 +41,7 @@ My research interests lie in Trustworthy Machine Learning, Large Reasoning Model
 
 <div id="education"></div>
 
-** Education**
+** Education **
 ---
 
 - *2023.09 -- 2026.06 (Anticipated)*, **University of Science & Technology of China**
@@ -66,7 +66,7 @@ My research interests lie in Trustworthy Machine Learning, Large Reasoning Model
 
 <div id="publications"></div>
 
-** Publications**
+** Publications **
 ---
 
 (* indicates equal contribution, <sup>†</sup> indicates corresponding author.)
@@ -122,7 +122,7 @@ My research interests lie in Trustworthy Machine Learning, Large Reasoning Model
 
 <div id="services"></div>
 
-** Academic Services**
+** Academic Services **
 ---
 - **Reviewer**: NeurIPS’25
 
@@ -130,7 +130,7 @@ My research interests lie in Trustworthy Machine Learning, Large Reasoning Model
 
 <div id="honors"></div> 
 
-** Honors and Awards**
+** Honors and Awards **
 ---
 
 <ul>
