@@ -25,14 +25,14 @@ My research interests lie in Trustworthy Machine Learning, Large Reasoning Model
 
 <h2 style="margin-top: -1em; border-bottom: none;"></h2>
 
-**<span style="color:red;">Large Reasoning Models Security:</span>** Large reasoning models introduce novel safety challenges as traditional attack methods tend to lose effectiveness due to these models’ advanced abilities. My research focus on two key directions:
+**<span>Large Reasoning Models Security:</span>** Large reasoning models introduce novel safety challenges as traditional attack methods tend to lose effectiveness due to these models’ advanced abilities. My research focus on two key directions:
 <h2 style="margin-top: -1.6em; border-bottom: none;"></h2>
   - **Design new tailored attacks** that reveal the vulnerabilities of reasoning models, thereby advancing their robustness and interpretability.
   - **Explore unique security risks** introduced by reasoning process itself, which may expose previously unseen attack surfaces.
 
 <h2 style="margin-top: -0.4em; border-bottom: none;"></h2>
 
-**<span style="color:red;">AI-generated Text Detection and Attribution:</span>**  Since late 2023, my research has focused on modeling the cognitive and behavioral differences between neural language models and humans, with the goal of leveraging these differences to detect AI-generated texts: 
+**<span>AI-generated Text Detection and Attribution:</span>**  Since late 2023, my research has focused on modeling the cognitive and behavioral differences between neural language models and humans, with the goal of leveraging these differences to detect AI-generated texts: 
 <h2 style="margin-top: -1.6em; border-bottom: none;"></h2>
   - **A key contribution of our work is the introduction of semantic decoupling**, which facilitates the development of detection methods with enhanced generalizability across domains. 
   - We also focus on a key challenge: **As large language models generate increasingly fluent and coherent text, can existing detection methods still be effictive?** This question becomes even more critical in the context of reasoning models, which produce logically structured content that closely mimics human writing. To tackle this, we built the first systematic benchmark for evaluating detectors on reasoning-intensive text and proposed tailored methods to improve detection robustness and reliability.
