@@ -12,9 +12,15 @@ redirect_from:
 <div id="about"></div>
 <h2 style="margin-top: 0.3em;"> About Me</h2>
 
-I am a Master's student at the School of Cyberspace Security, [University of Science and Technology of China](https://www.ustc.edu.cn/). I am fortunate to be advised by [Prof. Weiming Zhang](https://scholar.google.com/citations?hl=zh-CN&user=eTCfl6cAAAAJ) and [Prof. Kejiang Chen](http://home.ustc.edu.cn/~chenkj/).
+**Incoming PhD Student @ [UNC-Chapel Hill](https://cs.unc.edu/)**
 
-I have also had the privilege of being advised by [Prof. Yue Zhang](https://frcchang.github.io/) during my internship at the WestlakeNLP Lab, where I was honored to work with [Guangsheng Bao](https://scholar.google.com/citations?user=cxPJx2kAAAAJ&hl=en) on detecting AI-generated texts in the era of Large Reasoning Models.
+Hi! I'm Xiao Yu (于潇). I will be joining [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/)'s [MURGe-Lab](https://murgelab.cs.unc.edu/) at UNC-Chapel Hill as a PhD student in Fall 2026, working on NLP and Trustworthy AI.
+
+I am currently a Master's student at the School of Cyberspace Security, [University of Science and Technology of China](https://www.ustc.edu.cn/). I am fortunate to be advised by [Prof. Weiming Zhang](https://scholar.google.com/citations?hl=zh-CN&user=eTCfl6cAAAAJ) and [Prof. Kejiang Chen](http://home.ustc.edu.cn/~chenkj/).
+
+I have had the privilege of working under the guidance of [Prof. Neil Gong](https://people.duke.edu/~zg70/) at Duke University on AI security. I also had the fortune of being advised by [Prof. Yue Zhang](https://frcchang.github.io/) during my internship at the WestlakeNLP Lab, where I worked with [Guangsheng Bao](https://scholar.google.com/citations?user=cxPJx2kAAAAJ&hl=en) on detecting AI-generated texts in the era of Large Reasoning Models.
+
+Feel free to reach out for collaborations or any questions — by email (yuxiao1217[at]mail.ustc.edu.cn) or through social media. Always happy to connect!
 
 <h2 style="margin-top: -2em; border-bottom: none;"></h2>
 
