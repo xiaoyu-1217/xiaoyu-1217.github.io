@@ -13,7 +13,7 @@ title                    : "Xiao Yu"
 title_separator          : "-"
 name                     : &name "Xiao Yu"
 description              : &description "personal description"
-url                      : https://happy-moer.github.io/yuxiao.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://xiaoyu-1217.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,9 +25,9 @@ author:
   avatar           : "yuxiao.png"
   name             : "Xiao Yu (于潇)"
   pronouns         : # example: "she/her"  
-  bio              : "A master's student in USTC"
+  bio              : "MS @ USTC | Incoming PhD @ UNC-Chapel Hill"
   location         : "Hefei, China"
-  employer         : "WMG Group, USTC"
+  employer         : ""
   uri              : # URL
   email            : "yuxiao1217@mail.ustc.edu.cn" 
 
