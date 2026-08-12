@@ -20,7 +20,7 @@ I am currently a Master's student at the School of Cyberspace Security, [Univers
 
 I have had the privilege of working under the guidance of [Prof. Neil Gong](https://people.duke.edu/~zg70/) at Duke University on AI security. I also had the fortune of being advised by [Prof. Yue Zhang](https://frcchang.github.io/) during my internship at the WestlakeNLP Lab, where I worked with [Guangsheng Bao](https://scholar.google.com/citations?user=cxPJx2kAAAAJ&hl=en) on detecting AI-generated texts in the era of Large Reasoning Models.
 
-Feel free to reach out for collaborations or any questions — by email (yuxiao1217[at]mail.ustc.edu.cn) or through social media. Always happy to connect!
+Feel free to reach out for collaborations or any questions. Always happy to connect!
 
 <h2 style="margin-top: -2em; border-bottom: none;"></h2>
 
