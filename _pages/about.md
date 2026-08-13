@@ -62,14 +62,6 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
         <br />
         <em>The 32th ACM International Conference on Multimedia, 2024, Melbourne, Australia</em><br>
     </li>
-    <h2 style="margin-top: 0.004em; border-bottom: none;"></h2>  
-    <li>
-      <b><a href='https://ieeexplore.ieee.org/abstract/document/10795058'><font color="#0b5394">[ICSME'24] </font></a></b>
-      <b>How Far Have We Gone in Binary Code Understanding Using Large Language Models</b>
-      <br /> Xiuwei Shang, Shaoyin Cheng, Guoqiang Chen, Yanming Zhang, Li Hu, <strong><u>Xiao Yu</u></strong>, Gangyang Li, Weiming Zhang<sup>†</sup>, Nenghai Yu
-      <br />
-      <em>The 40th International Conference on Software Maintenance and Evolution, 2024, Flagstaff, AZ, USA</em><br>
-    </li>
 
 </ol>
 
