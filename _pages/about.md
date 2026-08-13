@@ -33,7 +33,6 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
     <li>
         <b><a href='https://arxiv.org/pdf/2305.12519'><font color="#0b5394">[NeurIPS'24]</font></a></b>
         <b>DPIC: Decoupling Prompt and Intrinsic Characteristics for LLM Generated Text Detection</b>
-        <strong><font style="color:#FF0000;float: right">CCF-A</font></strong>
         <br /> <strong><u>Xiao Yu</u></strong>*, Yuang Qi*, Kejiang Chen<sup>†</sup>, Guoqiang Chen, Xi Yang, Pengyuan Zhu, Xiuwei Shang, Weiming Zhang, Nenghai Yu
         <br />
         <em>The 38th Annual Conference on Neural Information Processing Systems, 2024, Vancouver, Canada</em><br>
@@ -42,7 +41,6 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
     <li>
         <b><a href='https://aclanthology.org/2024.emnlp-main.885.pdf'><font color="#0b5394">[EMNLP'24 Main]</font></a></b>
         <b>Text Fluoroscopy: Detecting LLM-Generated Text through Intrinsic Features</b>
-        <strong><font style="color:#FF0000;float: right">CCF-B</font></strong>
         <br /> <strong><u>Xiao Yu</u></strong>, Kejiang Chen<sup>†</sup>,  Qi Yang, Weiming Zhang, Nenghai Yu
         <br />
         <em>The 2024 Conference on Empirical Methods in Natural Language Processing, 2024, Miami, Florida, USA</em><br>
@@ -52,7 +50,6 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
         <b><a href='https://aclanthology.org/2025.findings-acl.754.pdf'><font color="#0b5394">[ACL'25]</font></a></b>
         <b>EvoBench: Towards Real-world LLM-Generated Text Detection Benchmarking for Evolving
       Large Language Models</b>
-        <strong><font style="color:#FF0000;float: right">CCF-A</font></strong>
         <br /> <strong><u>Xiao Yu*</u></strong>, Yi Yu*, Dongrui Liu, Kejiang Chen<sup>†</sup>,Weiming Zhang, Nenghai Yu, Jing Shao<sup>†</sup>
         <br />
         <em>The 63rd Annual Meeting of the Association for Computational Linguistics, 2025, Vienna, Austria </em><br>
@@ -61,7 +58,6 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
     <li>
         <b><a href='https://dl.acm.org/doi/10.1145/3664647.3680776'><font color="#0b5394">[ACM MM'24] </font></a></b>
         <b>SemGIR: Semantic-Guided Image Regeneration based method for AI-generated Image Detection</b>
-        <strong><font style="color:#FF0000;float: right">CCF-A</font></strong>
         <br /> <strong><u>Xiao Yu</u></strong>, Kejiang Chen<sup>†</sup>, Kai Zeng, Han Fang<sup>†</sup>, Zijin Yang, Xiuwei Shang, Yuang Qi, Weiming Zhang, Nenghai Yu
         <br />
         <em>The 32th ACM International Conference on Multimedia, 2024, Melbourne, Australia</em><br>
@@ -70,7 +66,6 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
     <li>
       <b><a href='https://ieeexplore.ieee.org/abstract/document/10795058'><font color="#0b5394">[ICSME'24] </font></a></b>
       <b>How Far Have We Gone in Binary Code Understanding Using Large Language Models</b>
-      <strong><font style="color:#FF0000;float: right">CCF-B</font></strong>
       <br /> Xiuwei Shang, Shaoyin Cheng, Guoqiang Chen, Yanming Zhang, Li Hu, <strong><u>Xiao Yu</u></strong>, Gangyang Li, Weiming Zhang<sup>†</sup>, Nenghai Yu
       <br />
       <em>The 40th International Conference on Software Maintenance and Evolution, 2024, Flagstaff, AZ, USA</em><br>
