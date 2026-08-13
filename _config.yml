@@ -25,10 +25,10 @@ author:
   avatar           : "yuxiao.png"
   name             : "Xiao Yu (于潇)"
   pronouns         : # example: "she/her"  
-  bio              : "MS @ USTC | Incoming PhD @ UNC-Chapel Hill"
-  location         : "Hefei, China"
+  bio              : "Incoming PhD @ UNC-Chapel Hill"
+  location         : "Chapel Hill"
   uri              : # URL
-  email            : "yuxiao1217@mail.ustc.edu.cn" 
+  email            : "xiaoyuu@cs.unc.edu" 
 
   # Academic websites
   academia         : # URL
@@ -68,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "XiaoYu_UNC"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
