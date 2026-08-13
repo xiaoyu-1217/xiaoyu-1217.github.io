@@ -14,63 +14,15 @@ redirect_from:
 
 **Incoming PhD Student @ [UNC-Chapel Hill](https://cs.unc.edu/)**
 
-Hi! I'm Xiao Yu (于潇). I will be joining [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/)'s [MURGe-Lab](https://murgelab.cs.unc.edu/) at UNC-Chapel Hill as a PhD student in Fall 2026, working on NLP and Trustworthy AI.
+Hi! I'm Xiao Yu (于潇). I will be joining [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/)'s [MURGe-Lab](https://murgelab.cs.unc.edu/) at UNC-Chapel Hill as a PhD student in Fall 2026, working on NLP, Trustworthy AI, and Faithfulness.
 
-I am currently a Master's student at the School of Cyberspace Security, [University of Science and Technology of China](https://www.ustc.edu.cn/). I am fortunate to be advised by [Prof. Weiming Zhang](https://scholar.google.com/citations?hl=zh-CN&user=eTCfl6cAAAAJ) and [Prof. Kejiang Chen](http://home.ustc.edu.cn/~chenkj/).
+Before that, I was a Master's student at the School of Cyberspace Security, [University of Science and Technology of China](https://www.ustc.edu.cn/). I was fortunate to be advised by [Prof. Weiming Zhang](https://scholar.google.com/citations?hl=zh-CN&user=eTCfl6cAAAAJ) and [Assistant Prof. Kejiang Chen](http://home.ustc.edu.cn/~chenkj/).
 
 I have had the privilege of working under the guidance of [Prof. Neil Gong](https://people.duke.edu/~zg70/) at Duke University on AI security. I also had the fortune of being advised by [Prof. Yue Zhang](https://frcchang.github.io/) during my internship at the WestlakeNLP Lab, where I worked with [Guangsheng Bao](https://scholar.google.com/citations?user=cxPJx2kAAAAJ&hl=en) on detecting AI-generated texts in the era of Large Reasoning Models.
 
 Feel free to reach out for collaborations or any questions. Always happy to connect!
 
 <h2 style="margin-top: -2em; border-bottom: none;"></h2>
-
-**Research Interesets**
----
-
-My research interests lie in Trustworthy Machine Learning, Large Reasoning Models Security, and AI-generated Text Detection.
-
-<h2 style="margin-top: -1em; border-bottom: none;"></h2>
-
-**<span>Large Reasoning Models Security:</span>** Large reasoning models introduce novel safety challenges as traditional attack methods tend to lose effectiveness due to these models’ advanced abilities. My research focus on two key directions:
-<h2 style="margin-top: -1.6em; border-bottom: none;"></h2>
-  - **Design new tailored attacks** that reveal the vulnerabilities of reasoning models, thereby advancing their robustness and interpretability.
-  - **Explore unique security risks** introduced by reasoning process itself, which may expose previously unseen attack surfaces.
-
-<h2 style="margin-top: -0.4em; border-bottom: none;"></h2>
-
-**<span>AI-generated Text Detection and Attribution:</span>**  Since late 2023, my research has focused on modeling the cognitive and behavioral differences between neural language models and humans, with the goal of leveraging these differences to detect AI-generated texts: 
-<h2 style="margin-top: -1.6em; border-bottom: none;"></h2>
-  - **A key contribution of our work is the introduction of semantic decoupling**, which facilitates the development of detection methods with enhanced generalizability across domains. 
-  - We also focus on a key challenge: **As large language models generate increasingly fluent and coherent text, can existing detection methods still be effictive?** This question becomes even more critical in the context of reasoning models, which produce logically structured content that closely mimics human writing. To tackle this, we built the first systematic benchmark for evaluating detectors on reasoning-intensive text and proposed tailored methods to improve detection robustness and reliability.
-
-<h2 style="margin-top: -2em; border-bottom: none;"></h2>
-
-<div id="education"></div>
-
-**Education**
----
-
-- *2023.09 -- 2026.06 (Anticipated)*, **University of Science & Technology of China**
-    <h2 style="margin-top: -0.4em; border-bottom: none;"></h2>   
-    Master of Science, Department of Cyber Science and Technology
-
-    <h2 style="margin-top: -1.4em; border-bottom: none;"></h2>  
-    Supervisor: [Prof. Weiming Zhang](https://scholar.google.com/citations?hl=zh-CN&user=eTCfl6cAAAAJ)
-
-    <h2 style="margin-top: -1.4em; border-bottom: none;"></h2>  
-    Awarded the National Scholarship
-
-- *2019.09 -- 2023.06*, **Shanghai University**
-    <h2 style="margin-top: -0.4em; border-bottom: none;"></h2>  
-    Bachelor, Department of Computer Science and Technology
-    
-    <h2 style="margin-top: -1.4em; border-bottom: none;"></h2>  
-    Supervisor:[Prof. Xiaoqiang Li](https://scholar.google.com/citations?user=JGm4z4YAAAAJ&hl=zh-CN).
-
-    <h2 style="margin-top: -1.4em; border-bottom: none;"></h2>  
-    Honored as an Outstanding Graduate of Shanghai
-
-<div id="publications"></div>
 
 **Publications**
 ---
@@ -136,28 +88,4 @@ My research interests lie in Trustworthy Machine Learning, Large Reasoning Model
 
 <div id="honors"></div> 
 
-**Honors and Awards**
----
-
-<ul>
-<li><strong>Graduate National Scholarship</strong>, 2024.11<br></li>
-<li>First-class Scholarship of University of Science & Technology of China, 2024.09<br></li>
-<li>First-class Scholarship of University of Science & Technology of China, 2023.09<br></li>
-<li> Outstanding Graduates of Shanghai, 2023.05<br></li>
-
-<li>
-   ATEC Technology Elite Challenge (AI-generated News Detection Track), <strong>Team 3rd Place (Top 0.45%)</strong>, 2024.04
-</li>
-<li>
-    <a href='https://www.atecup.cn/matchHomeRanklist/100001/rankList'>ATEC Technology Elite Challenge (AI-generated News Detection Track)</a>, <strong>Online 3rd Place (Team Leader)</strong>, 2024.02
-</li>
-
-
-<li> National College Students Information Security Competition (Mentoring Undergraduate Students),<strong>1st Prize,</strong> 2024.06<br></li>
-<li> National College Students Information Security Competition (Mentoring Undergraduate Students), Investment-Worthy Award, 2024.06<br></li>
-
-<li> Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), <strong>National 2nd Prize (Top 0.91%)</strong>, 2021<br></li>
-
-<li> National Undergraduate Computer Application Skills Competition, 2nd Prize, 2022<br></li>
-</ul>
 
