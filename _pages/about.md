@@ -69,7 +69,7 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
 
 **Academic Services**
 ---
-- **Reviewer**: NeurIPS’25
+- **Reviewer**: NeurIPS’25 (Top Reviewer)
 
 - **External Reviewer**: ACL’25, EMNLP'24
 
