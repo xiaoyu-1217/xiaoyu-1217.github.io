@@ -25,7 +25,7 @@ author:
   avatar           : "XiaoYu.png"
   name             : "Xiao Yu (于潇)"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming PhD @ UNC-Chapel Hill"
+  bio              : "First-year Ph.D. @ UNC-Chapel Hill"
   location         : "Chapel Hill"
   uri              : # URL
   email            : "xiaoyuu@cs.unc.edu" 
@@ -51,6 +51,7 @@ author:
 
   # Social media
   artstation       : # Username
+  github       : "xxiaoyuuuu"
   # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
@@ -60,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "xiao-yu-8b640b444"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
