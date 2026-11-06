@@ -93,7 +93,7 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
 
 **Academic Services**
 ---
-- **Reviewer**: NeurIPS 2025 (**Top Reviewer**), ACL 2025, EMNLP 2024, ICLR 2027, IEEE TIFS.
+- **Reviewer**: NeurIPS 2025 (**Top Reviewer**), ICLR 2027, ACL 2025, EMNLP 2024, IEEE TIFS.
 
 <div id="honors"></div> 
 
