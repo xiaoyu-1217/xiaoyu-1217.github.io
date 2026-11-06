@@ -31,7 +31,7 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
 
 <ol>
     <li>
-        <b><a href="https://arxiv.org/pdf/2610.42054"><font color="#0b5394">[arXiv'26]</font></a></b>
+        <b><a href="https://arxiv.org/pdf/2610.42054"><font color="#0b5394">[arXiv]</font></a></b>
         <b>CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness</b>
         <br /> <strong><u>Xiao Yu</u></strong>, Justin Chih-Yao Chen, Zaid Khan, Hyunji Lee, Mohit Bansal
         <br />
