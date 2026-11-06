@@ -12,9 +12,9 @@ redirect_from:
 <div id="about"></div>
 <h2 style="margin-top: 0.3em;"> About Me</h2>
 
-**Incoming PhD Student @ [UNC-Chapel Hill](https://cs.unc.edu/)**
+**First-year Ph.D. Student @ [UNC-Chapel Hill](https://cs.unc.edu/)**
 
-Hi! I'm Xiao Yu (于潇). I will be joining [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/)'s [MURGe-Lab](https://murgelab.cs.unc.edu/) at UNC-Chapel Hill as a PhD student in Fall 2026, working on NLP, Trustworthy AI, and Faithfulness.
+Hi! I'm Xiao Yu (于潇). I am a first-year Ph.D. student at UNC-Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/) in the [MURGe Lab](https://murgelab.cs.unc.edu/). My research interests focus on NLP, Reinforcement Learning, and Faithfulness reasoning.
 
 Before that, I was a Master's student at the School of Cyberspace Security, [University of Science and Technology of China](https://www.ustc.edu.cn/). I was fortunate to be advised by [Prof. Weiming Zhang](https://scholar.google.com/citations?hl=zh-CN&user=eTCfl6cAAAAJ) and [Assistant Prof. Kejiang Chen](http://home.ustc.edu.cn/~chenkj/).
 
