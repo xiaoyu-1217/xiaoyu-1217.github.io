@@ -31,6 +31,15 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
 
 <ol>
     <li>
+        <b><a href="https://arxiv.org/pdf/2610.42054"><font color="#0b5394">[arXiv'26]</font></a></b>
+        <b>CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness</b>
+        <br /> <strong><u>Xiao Yu</u></strong>, Justin Chih-Yao Chen, Zaid Khan, Hyunji Lee, Mohit Bansal
+        <br />
+        <em>arXiv preprint, 2026</em>
+        <a href="https://xxiaoyuuuu.github.io/CRoS-Page/">[Project Page]</a><br>
+    </li>
+    <h2 style="margin-top: 0.004em; border-bottom: none;"></h2>
+    <li>
         <b><a href='https://arxiv.org/pdf/2305.12519'><font color="#0b5394">[NeurIPS'24]</font></a></b>
         <b>DPIC: Decoupling Prompt and Intrinsic Characteristics for LLM Generated Text Detection</b>
         <br /> <strong><u>Xiao Yu</u></strong>*, Yuang Qi*, Kejiang Chen<sup>†</sup>, Guoqiang Chen, Xi Yang, Pengyuan Zhu, Xiuwei Shang, Weiming Zhang, Nenghai Yu
@@ -54,7 +63,15 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
         <br />
         <em>The 63rd Annual Meeting of the Association for Computational Linguistics, 2025, Vienna, Austria </em><br>
     </li>
-    <h2 style="margin-top: 0.004em; border-bottom: none;"></h2>  
+    <h2 style="margin-top: 0.004em; border-bottom: none;"></h2>
+    <li>
+        <b><a href="https://arxiv.org/pdf/2404.09836"><font color="#0b5394">[ICSME'24]</font></a></b>
+        <b>How Far Have We Gone in Binary Code Understanding Using Large Language Models</b>
+        <br /> Xiuwei Shang, Shaoyin Cheng, Guoqiang Chen, Yanming Zhang, Li Hu, <strong><u>Xiao Yu</u></strong>, Gangyang Li, Weiming Zhang, Nenghai Yu
+        <br />
+        <em>2024 IEEE International Conference on Software Maintenance and Evolution, 2024</em><br>
+    </li>
+    <h2 style="margin-top: 0.004em; border-bottom: none;"></h2>
     <li>
         <b><a href='https://dl.acm.org/doi/10.1145/3664647.3680776'><font color="#0b5394">[ACM MM'24] </font></a></b>
         <b>SemGIR: Semantic-Guided Image Regeneration based method for AI-generated Image Detection</b>
@@ -62,7 +79,13 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
         <br />
         <em>The 32th ACM International Conference on Multimedia, 2024, Melbourne, Australia</em><br>
     </li>
-
+    <li>
+        <b><a href="https://arxiv.org/pdf/2606.31074"><font color="#0b5394">[TACL'26]</font></a></b>
+        <b>Triospect: A Three-Dimensional Framework for Robust Statistical AI-Generated Text Detection Against Diverse Attacks</b>
+        <br /> Guangsheng Bao, Lihua Rong, Yanbin Zhao, <strong><u>Xiao Yu</u></strong>, Qiji Zhou, Yue Zhang
+        <br />
+        <em>Transactions of the Association for Computational Linguistics, 2026</em><br>
+    </li>
 </ol>
 
 <div id="services"></div>
