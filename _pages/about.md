@@ -27,7 +27,7 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
 **Publications**
 ---
 
-(* indicates equal contribution, <sup>†</sup> indicates corresponding author.)
+(* indicates equal contribution.)
 
 <ol>
     <li>
@@ -43,7 +43,7 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
     <li>
         <b><a href='https://arxiv.org/pdf/2305.12519'><font color="#0b5394">[NeurIPS'24]</font></a></b>
         <b>DPIC: Decoupling Prompt and Intrinsic Characteristics for LLM Generated Text Detection</b>
-        <br /> <strong><u>Xiao Yu</u></strong>*, Yuang Qi*, Kejiang Chen<sup>†</sup>, Guoqiang Chen, Xi Yang, Pengyuan Zhu, Xiuwei Shang, Weiming Zhang, Nenghai Yu
+        <br /> <strong><u>Xiao Yu</u></strong>*, Yuang Qi*, Kejiang Chen, Guoqiang Chen, Xi Yang, Pengyuan Zhu, Xiuwei Shang, Weiming Zhang, Nenghai Yu
         <br />
         <em>The 38th Annual Conference on Neural Information Processing Systems, 2024, Vancouver, Canada</em><br>
     </li>
@@ -51,7 +51,7 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
     <li>
         <b><a href='https://aclanthology.org/2024.emnlp-main.885.pdf'><font color="#0b5394">[EMNLP'24 Main]</font></a></b>
         <b>Text Fluoroscopy: Detecting LLM-Generated Text through Intrinsic Features</b>
-        <br /> <strong><u>Xiao Yu</u></strong>, Kejiang Chen<sup>†</sup>,  Qi Yang, Weiming Zhang, Nenghai Yu
+        <br /> <strong><u>Xiao Yu</u></strong>, Kejiang Chen,  Qi Yang, Weiming Zhang, Nenghai Yu
         <br />
         <em>The 2024 Conference on Empirical Methods in Natural Language Processing, 2024, Miami, Florida, USA</em><br>
     </li>
@@ -60,9 +60,17 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
         <b><a href='https://aclanthology.org/2025.findings-acl.754.pdf'><font color="#0b5394">[ACL'25]</font></a></b>
         <b>EvoBench: Towards Real-world LLM-Generated Text Detection Benchmarking for Evolving
       Large Language Models</b>
-        <br /> <strong><u>Xiao Yu*</u></strong>, Yi Yu*, Dongrui Liu, Kejiang Chen<sup>†</sup>,Weiming Zhang, Nenghai Yu, Jing Shao<sup>†</sup>
+        <br /> <strong><u>Xiao Yu*</u></strong>, Yi Yu*, Dongrui Liu, Kejiang Chen, Weiming Zhang, Nenghai Yu, Jing Shao
         <br />
         <em>The 63rd Annual Meeting of the Association for Computational Linguistics, 2025, Vienna, Austria </em><br>
+    </li>
+    <h2 style="margin-top: 0.004em; border-bottom: none;"></h2>
+    <li>
+        <b><a href='https://dl.acm.org/doi/10.1145/3664647.3680776'><font color="#0b5394">[ACM MM'24] </font></a></b>
+        <b>SemGIR: Semantic-Guided Image Regeneration based method for AI-generated Image Detection</b>
+        <br /> <strong><u>Xiao Yu</u></strong>, Kejiang Chen, Kai Zeng, Han Fang, Zijin Yang, Xiuwei Shang, Yuang Qi, Weiming Zhang, Nenghai Yu
+        <br />
+        <em>The 32th ACM International Conference on Multimedia, 2024, Melbourne, Australia</em><br>
     </li>
     <h2 style="margin-top: 0.004em; border-bottom: none;"></h2>
     <li>
@@ -73,13 +81,6 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
         <em>2024 IEEE International Conference on Software Maintenance and Evolution, 2024</em><br>
     </li>
     <h2 style="margin-top: 0.004em; border-bottom: none;"></h2>
-    <li>
-        <b><a href='https://dl.acm.org/doi/10.1145/3664647.3680776'><font color="#0b5394">[ACM MM'24] </font></a></b>
-        <b>SemGIR: Semantic-Guided Image Regeneration based method for AI-generated Image Detection</b>
-        <br /> <strong><u>Xiao Yu</u></strong>, Kejiang Chen<sup>†</sup>, Kai Zeng, Han Fang<sup>†</sup>, Zijin Yang, Xiuwei Shang, Yuang Qi, Weiming Zhang, Nenghai Yu
-        <br />
-        <em>The 32th ACM International Conference on Multimedia, 2024, Melbourne, Australia</em><br>
-    </li>
     <li>
         <b><a href="https://arxiv.org/pdf/2606.31074"><font color="#0b5394">[TACL'26]</font></a></b>
         <b>Triospect: A Three-Dimensional Framework for Robust Statistical AI-Generated Text Detection Against Diverse Attacks</b>
