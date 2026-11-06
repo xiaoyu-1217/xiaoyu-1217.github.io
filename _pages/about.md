@@ -36,7 +36,8 @@ Feel free to reach out for collaborations or any questions. Always happy to conn
         <br /> <strong><u>Xiao Yu</u></strong>, Justin Chih-Yao Chen, Zaid Khan, Hyunji Lee, Mohit Bansal
         <br />
         <em>arXiv preprint, 2026</em>
-        <a href="https://xxiaoyuuuu.github.io/CRoS-Page/">[Project Page]</a><br>
+        <a href="https://arxiv.org/pdf/2610.42054">[Paper]</a>
+        <a href="https://xxiaoyuuuu.github.io/CRoS-Page/">[Project Page]</a>
     </li>
     <h2 style="margin-top: 0.004em; border-bottom: none;"></h2>
     <li>
